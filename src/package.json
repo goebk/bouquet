@@ -1,0 +1,9 @@
+{
+    "name": "bouquet",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "author": "Viktor Gabel",
+    "license": "ISC"
+}
